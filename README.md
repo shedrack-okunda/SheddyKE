@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sheddyKE
-- 👀 I’m interested in web development
+- 👀 I’m a passionate programmer and a web developer
 - 🌱 I’m currently learning CSS, HTML and JAVASCRIPT
 - 💞️ I’m looking to collaborate on Developing websites
 - 📫 How to reach me Twitter @sheddyke_
