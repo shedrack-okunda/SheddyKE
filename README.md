@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sheddyKE
+- 👋 Hi, I’m @SheddyKE
 - 👀 I’m a passionate programmer and a web developer
 - 🌱 I’m programming using HTML, CSS, JavaScript, Bootstrap, React JS, JSON, and C. 
 - 💞️ I’m looking to collaborate on Developing websites and other projects
