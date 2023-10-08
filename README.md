@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shedrack Okunda
 - 👀 I’m a passionate programmer and a web developer
-- 🌱 I’m a programmer using HTML, CSS, JavaScript, Bootstrap, Sass, jQuery, React JS, JSON, and C. 
+- 🌱 I’m a programmer using HTML, CSS, JavaScript, Bootstrap, Sass, jQuery, React JS, JSON, C# and C. 
 - 💞️ I’m looking to collaborate on Developing websites and other projects
 - 📫 How to reach me Twitter @sheddyke_
 
