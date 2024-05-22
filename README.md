@@ -1,8 +1,16 @@
 - 👋 Hi, I’m Shedrack Okunda.
-- 👀 I’m a web developer.
-- 🌱 I’m currently a Frontend developer, but am looking forward to become a Fullstack developer. 
+- 👀 I’m a Front-End web developer aspiring to be Full-Stack developer. I love coding, learning new technologies and building cool projects.
+- 🚀 Technologies & Tools
+- 🌐 HTML, CSS, JavaScript.
+- ⚛️ React JS.
+- 🛠 Git, GitHub.
+- 🗄
+- 🌱  
 - 💞️ I’m looking to collaborate with othere developers on Developing websites and other web based projects.
-- 📫 How to reach me okundashedrack@gmail.com
+- 📫 How to reach me: 
+- [Email] okundashedrack@gmail.com
+- [LinkedIn] linkedin/in/shedrack-okunda
+- [Twitter] @sheddyke_
 
 <!---
 sheddyKE/sheddyKE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
