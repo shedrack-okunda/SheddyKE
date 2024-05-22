@@ -2,7 +2,9 @@
 - 👀 I’m a Front-End web developer aspiring to be Full-Stack developer. I love coding, learning new technologies and building cool projects.
 - 🚀 Technologies & Tools
 - 🌐 HTML, CSS, JavaScript.
+- 📦 Bootstrap.
 - ⚛️ React JS.
+- 🎨 Figma.
 - 🛠 Git, GitHub.
 - 🗄
 - 🌱  
