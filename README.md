@@ -1,14 +1,7 @@
 - 👋 Hi, I’m Shedrack Okunda.
 - 👀 A Front-End web developer.
-- 🚀 Technologies & Tools
-- 🌐 HTML, CSS, JavaScript.
-- 📦 Bootstrap.
-- ⚛️ React.js.
-- 🎨 Figma.
-- 🛠 Git, GitHub.
-- 🗄 MongoDB.
-- 🌱 Node.js.
-- 💞️ I’m looking to collaborate with othere developers on Developing websites and other web based projects.
+- ⚛️ Am currently learning React.js
+- 💞️ I’m looking to collaborate with both frontend and backend developers for fullstack applications.
 - 📫 How to reach me: 
 - [Email] okundashedrack@gmail.com
 
